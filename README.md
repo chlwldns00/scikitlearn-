@@ -3,5 +3,5 @@
 2. K-fold 교차검증 예제
 3. model-selection 모듈
 4. min-max정규화,standard정규화
-5. 실전 적용(분류,회귀,차원축소,군집화,텍스트분석,추천시스템) **kaggle데이터활용**
+5. 머신러닝 알고리즘 실전 적용(분류,회귀,차원축소,군집화,텍스트분석,추천시스템) **kaggle데이터활용**
 6. credit_card.csv 는 용량이 너무 커서 안올라갔습니다 ![]https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
